@@ -1,7 +1,7 @@
 asyncapi: 3.0.0
 id: wss://wss-primary.slack.com/websocket
 info:
-  title: New Slack Real Time Messaging API
+  title: Fetcher Disabled Slack Real Time Messaging API
   version: 1.0.0
 servers:
   production:
